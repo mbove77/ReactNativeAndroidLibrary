@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.bove.martin.reactintegrationlibrary">
+
+
+    <application>
+        <activity android:name=".ReactActivity"></activity>
+    </application>
+
+</manifest>
